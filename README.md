@@ -1,5 +1,3 @@
-# Cloud Response to Jet Shifts: Data and Analysis Scripts
-
 This repository contains postprocessed data files from CloudSat, MERRA2, and CMIP6, along with Python scripts used to analyze these datasets for the manuscript:
 
 **"Vertically Varying Cloud Responses to Southern Hemisphere Jet Shifts and Their Role in Southern Annular Mode Persistence in Observations and CMIP6 Models"**

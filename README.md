@@ -26,6 +26,7 @@ Python notebooks and modules for reproducing the analysis:
 - `calculate_SAM_indices.ipynb`: Computes the SAM index and persistence index across all datasets.
 - `calculate_jet_ACRE.ipynb`: Computes the jet–ACRE relationship for MERRA2 and CMIP6 models.
 - `util.py`: Utility functions used throughout the analysis.
+- `combine_files_by_time.sh`: Combines CMIP6 NetCDF files for different time periods into a single merged file using nco (ncrcat) for each variable and each model
 - `figure1.ipynb` through `figure4.ipynb`: Scripts to generate Figures 1–4 in the manuscript.
 
 ---
